@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/TurnosGuardiaReact/static/css/main.fe624a19.css",
-    "main.js": "/TurnosGuardiaReact/static/js/main.8206c1de.js",
-    "static/media/testimonio-emma.png": "/TurnosGuardiaReact/static/media/testimonio-emma.add10415a5668325d2f2.png",
-    "static/media/testimonio-sarah.png": "/TurnosGuardiaReact/static/media/testimonio-sarah.2c504d1ebaf1961e4a40.png",
-    "static/media/testimonio-shawn.png": "/TurnosGuardiaReact/static/media/testimonio-shawn.0d373888087fb18fc145.png",
-    "index.html": "/TurnosGuardiaReact/index.html",
-    "main.fe624a19.css.map": "/TurnosGuardiaReact/static/css/main.fe624a19.css.map",
-    "main.8206c1de.js.map": "/TurnosGuardiaReact/static/js/main.8206c1de.js.map"
+    "main.css": "/frecodecamp-testimonials/static/css/main.fe624a19.css",
+    "main.js": "/frecodecamp-testimonials/static/js/main.06ec7f47.js",
+    "static/media/testimonio-emma.png": "/frecodecamp-testimonials/static/media/testimonio-emma.add10415a5668325d2f2.png",
+    "static/media/testimonio-sarah.png": "/frecodecamp-testimonials/static/media/testimonio-sarah.2c504d1ebaf1961e4a40.png",
+    "static/media/testimonio-shawn.png": "/frecodecamp-testimonials/static/media/testimonio-shawn.0d373888087fb18fc145.png",
+    "index.html": "/frecodecamp-testimonials/index.html",
+    "main.fe624a19.css.map": "/frecodecamp-testimonials/static/css/main.fe624a19.css.map",
+    "main.06ec7f47.js.map": "/frecodecamp-testimonials/static/js/main.06ec7f47.js.map"
   },
   "entrypoints": [
     "static/css/main.fe624a19.css",
-    "static/js/main.8206c1de.js"
+    "static/js/main.06ec7f47.js"
   ]
 }
