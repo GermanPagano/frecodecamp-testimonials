@@ -2,12 +2,14 @@ import React from "react";
 import "../stylesheets/testimonios.css"
 
 
+
 export
 function Testimonio(props){
   return(
           <div className="contenedor-testimonio">
               <img
-                className="imagen-testimonio" src={require(`../imagenes/testimonio-${props.imagen}.png`)} alt="Fotografia de emma"  />
+                className="imagen-testimonio" src={require(`../imagenes/testimonio-${props.imagen}.png`)}
+                alt={"Fotografia de " + props.nombre } />
 
               <div className="contenedor-texto-testimonio">
 
