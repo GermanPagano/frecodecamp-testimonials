@@ -6,14 +6,6 @@ react js learning project
 preview 
 ![free](https://user-images.githubusercontent.com/80891761/173246432-b30087f8-f3fc-4a7f-8afe-f4946ba5395e.png)
 
-
-
-
-
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 ## Available Scripts
 
 In the project directory, you can run:
